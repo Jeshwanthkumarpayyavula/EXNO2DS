@@ -6,8 +6,8 @@
 # EXPLANATION:
   The primary aim with exploratory analysis is to examine the data for distribution, outliers and anomalies to direct specific testing of your hypothesis.
   
-## Developed by: Jeshwanth Kumar
-## REg.No: 212223240114
+## Developed by: P Jeshwanth Kumar
+## Reg.No: 212223240114
 
 # ALGORITHM:
 STEP 1: Import the required packages to perform Data Cleansing,Removing Outliers and Exploratory Data Analysis.
