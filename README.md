@@ -2,9 +2,13 @@
 # AIM:
       To perform Exploratory Data Analysis on the given data set.
       
+      
 # EXPLANATION:
   The primary aim with exploratory analysis is to examine the data for distribution, outliers and anomalies to direct specific testing of your hypothesis.
   
+## Developed by: Jeshwanth Kumar
+## REg.No: 212223240114
+
 # ALGORITHM:
 STEP 1: Import the required packages to perform Data Cleansing,Removing Outliers and Exploratory Data Analysis.
 
@@ -74,7 +78,7 @@ dt["Survived"].value_counts()
 ## Output:
 ![image](https://github.com/user-attachments/assets/1cab5dff-6c0a-4059-b45d-91f9022a5e03)
 
-## STep7:
+## Step7:
 ```Python
 per=(dt["Survived"].value_counts()/dt.shape[0]*100).round(2)
 per
@@ -176,4 +180,4 @@ sns.pairplot(dt)
        
 
 # RESULT
-Succesfully completed using data science with python
+ Hence performing Exploratory Data Analysis on the given data set is successful.
